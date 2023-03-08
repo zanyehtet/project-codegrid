@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
 * { 
     margin: 0;
     padding: 0;
@@ -5,7 +7,7 @@
 }
 
 body {
-    font-family: "Neue Montreal", sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 #overlay-light {
@@ -80,7 +82,7 @@ body {
 }
 
 .marquee span {
-    font-family: "Neue Montreal";
+    font-family: 'Poppins';
     font-weight: 400;
     letter-spacing: -10px;
     color: #000;
